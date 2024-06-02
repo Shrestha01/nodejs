@@ -1,3 +1,6 @@
+// if statement in nodejs
+// program to check values in a and a.
+
 var a = 10;
 var b = 20;
 
