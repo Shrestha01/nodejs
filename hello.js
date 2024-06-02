@@ -1,3 +1,6 @@
+//first code in nodejs
+//adding two number
+
 console.log("Add Two Number");
 
 var a = 5;
