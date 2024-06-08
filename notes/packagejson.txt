@@ -2,3 +2,8 @@ package.json file keeps record of our program.
 which version, command,with package are used on the program. like mongoDB, nodemon.
 all the build, deploy command are stored in it.
 it store all the coding details inside it.
+
+
+Nodejs is async in nature.
+normally, sync mean the program wait for one script to run and finish it before jumping to next
+but, javascript and nodejs dont wait to finish recent script.
